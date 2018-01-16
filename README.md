@@ -40,4 +40,4 @@ All assignments are due on the listed due date at the specified time. Details on
 
 | Assignment   | Type       | Due Date              | How to                                                                                                       |
 |--------------|------------|:----------------------|--------------------------------------------------------------------------------------------------------------|
-| Intro GitHub | Individual | 18 Jan (before class) | [Video Tutorial](https://youtu.be/bRkpm1LTpkY) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
+| Intro GitHub | Individual | 18 Jan (before class) | [Video Tutorial](https://youtu.be/bRkpm1LTpkY) / [Start Assignment](https://classroom.github.com/a/wAvQp94F) |
