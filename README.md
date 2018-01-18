@@ -10,7 +10,7 @@ This is the logistics page for the Spring 2018 **Stable Isotope Fractionation** 
 ## Resources
 
  - [Shared Google Drive](https://goo.gl/yYxMR1) (readings and slides)
- - [RStudio Server](moab.colorado.edu:8787) (IDE for programming exercises, assignments and projects)
+ - [RStudio Server](moab.colorado.edu:8787) (IDE for programming exercises, assignments and projects, only accessible on campus or via CU Boulder VPN)
  - [GitHub](https://github.com/) (version control used for all assignments)
 
 ### GitHub
