@@ -45,3 +45,5 @@ All assignments are due on the listed due date at the specified time. Details on
 | Intro RMarkdown  | 18 Jan (in-class exercise) | [Start Assignment](https://classroom.github.com/a/2u8l1Z_E)                                                  |
 | Read Hayes 2004  | 23 Jan (for class)         | [Google Drive](https://goo.gl/yYxMR1)                                                                        |
 | Intro R (part 2) | 25 Jan (before class)      | [Start Assignment](https://classroom.github.com/a/fO619WiO)                                                  |
+| Weekly Feedback  | End of week                | [Provide Feedback](https://goo.gl/forms/dlvbqVdMwBC9Pfyv1)                                                   |
+| Intro R (part 3) | 30 Jan (before class)      | [Start Assignment](https://classroom.github.com/a/Xpt8I_bV)                                                  |
