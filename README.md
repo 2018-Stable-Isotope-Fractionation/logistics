@@ -49,6 +49,7 @@ All assignments are due on the listed due date at the specified time. Details on
 | Weekly check-in               | End of week 2         | [Fill out check-in](https://goo.gl/forms/dlvbqVdMwBC9Pfyv1)                                                  |
 | Intro R (part 3)              | 30 Jan (before class) | [Start Assignment](https://classroom.github.com/a/Xpt8I_bV)                                                  |
 | Intro R (part 4)              | 1 Feb (before class)  | [Start Assignment](https://classroom.github.com/a/ilcAWDFw)                                                  |
-| Weekly check-in               | End of week  3        | [Fill out check-in](https://goo.gl/forms/ZnNruk9K5vUvLa802)                                                  |
+| Weekly check-in               | End of week 3         | [Fill out check-in](https://goo.gl/forms/ZnNruk9K5vUvLa802)                                                  |
 | Topic suggestions             | Feb 8 (before class)  | [Add project topic suggestions](https://goo.gl/qhfGYh)                                                       |
 | Isotope notation & properties | Feb 8 (before class)  | [View Assignment](https://goo.gl/oA8xk4) / [Start Assignment](https://classroom.github.com/a/vXT7DF9e)       |
+| Weekly check-in               | End of week 4         | [Fill out check-in](https://goo.gl/forms/DpMJ29yBCRpExOLj2)                                                  |
