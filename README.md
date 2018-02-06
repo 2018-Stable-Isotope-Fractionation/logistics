@@ -52,4 +52,5 @@ All assignments are due on the listed due date at the specified time. Details on
 | Weekly check-in               | End of week 3         | [Fill out check-in](https://goo.gl/forms/ZnNruk9K5vUvLa802)                                                  |
 | Topic suggestions             | Feb 8 (before class)  | [Add project topic suggestions](https://goo.gl/qhfGYh)                                                       |
 | Isotope notation & properties | Feb 8 (before class)  | [View Assignment](https://goo.gl/oA8xk4) / [Start Assignment](https://classroom.github.com/a/vXT7DF9e)       |
+| Partition functions (team)    | In class              | [View Assignment](https://goo.gl/eiXDb3) / [Start Assignment](https://classroom.github.com/g/VnYn3Zv1)       |
 | Weekly check-in               | End of week 4         | [Fill out check-in](https://goo.gl/forms/DpMJ29yBCRpExOLj2)                                                  |
