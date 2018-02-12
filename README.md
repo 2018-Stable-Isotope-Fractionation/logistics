@@ -25,14 +25,15 @@ Most assignments require access to a computer with internet connection outside o
 
 The schedule is preliminary and subject to change depending on student selected topics.
 
-Week  | Topic                                                                     | Readings
-------|---------------------------------------------------------------------------|------------------------
-1     | Logistics; Introduction to isotopes, standards and notation               | Coplen 2011; Brand 2014
-2+3   | Isotope fractionation (partition functions; equilibrium, kinetic effects) | Hayes 2004
-4+5   | Mass balance and mixing; systematics; reaction networks                   | Foster & Rae 2016
-5+6   | Metabolic systems, modeling approaches                                    | Hayes 2001
-8-10  | Example systems (e.g. Dole Effect + Intro to hydrologic cycle)            | Dole 1956
-11-15 | Student topics                                                            | TBD
+Week  | Topic                                                       | Readings
+------|-------------------------------------------------------------|------------------------
+1     | Logistics; Introduction to isotopes, standards and notation | Coplen 2011; Brand 2014
+2     | Isotope effects (types and notation)                        | Hayes 2004
+3+4   | Equilibrium isotope fractionation (partition functions)     | Schauble 2004
+5+6   | Mass balance and mixing; systematics; reaction networks     | Foster & Rae 2016
+7+8   | Metabolic systems, modeling approaches                      | Hayes 2001
+9+10  | Example systems (e.g. Dole Effect )                         | Dole 1956
+11-15 | Student topics                                              | TBD
 
 ## Assignments & Exercises
 
@@ -50,7 +51,9 @@ All assignments are due on the listed due date at the specified time. Details on
 | Intro R (part 3)              | 30 Jan (before class) | [Start Assignment](https://classroom.github.com/a/Xpt8I_bV)                                                  |
 | Intro R (part 4)              | 1 Feb (before class)  | [Start Assignment](https://classroom.github.com/a/ilcAWDFw)                                                  |
 | Weekly check-in               | End of week 3         | [Fill out check-in](https://goo.gl/forms/ZnNruk9K5vUvLa802)                                                  |
-| Topic suggestions             | Feb 8 (before class)  | [Add project topic suggestions](https://goo.gl/qhfGYh)                                                       |
-| Isotope notation & properties | Feb 8 (before class)  | [View Assignment](https://goo.gl/oA8xk4) / [Start Assignment](https://classroom.github.com/a/vXT7DF9e)       |
+| Isotope notation & properties | Feb 8 (end of class)  | [View Assignment](https://goo.gl/oA8xk4) / [Start Assignment](https://classroom.github.com/a/vXT7DF9e)       |
+| Topic suggestions             | Feb 12 (before class) | [Add project topic suggestions](https://goo.gl/qhfGYh)                                                       |
 | Partition functions (team)    | In class              | [View Assignment](https://goo.gl/eiXDb3) / [Start Assignment](https://classroom.github.com/g/VnYn3Zv1)       |
 | Weekly check-in               | End of week 4         | [Fill out check-in](https://goo.gl/forms/DpMJ29yBCRpExOLj2)                                                  |
+| Equilibrium isotope effects   | Feb 20 (before class) | [View Assignment]() / [Start Assignment]()                                                                   |
+| Weekly check-in               | End of week 5         | [Fill out check-in](https://goo.gl/forms/F2xC1QXJfUW4Jt9m2)                                                  |
