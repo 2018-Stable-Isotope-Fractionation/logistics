@@ -61,5 +61,5 @@ All assignments are due on the listed due date at the specified time. Details on
 | Weekly check-in               | End of week 6                    | [Fill out check-in](https://goo.gl/forms/1vrfugBBX2MTGros1)                                                                                 |
 | Weekly check-in               | End of week 7                    | [Fill out check-in](https://goo.gl/forms/Y7OKE68nvIznQHhJ3)                                                                                 |
 | Term Project                  | [Sign up](https://goo.gl/qhfGYh) | [Start Assignment](https://classroom.github.com/a/0xDO8UM1)                                                                                 |
-| Project: Dole Effect          | In class                         | [Repository](https://github.com/2018-Stable-Isotope-Fractionation/project-AmazingSpiderPig)                                                 |
+| Project: Dole Effect          | In class                         | [View](https://goo.gl/YRExVL) / [Clone](https://goo.gl/NCcZ5T) / [Solutions](https://goo.gl/LgbzSB)                                         |
 | Weekly check-in               | End of week 8                    | [Fill out check-in](https://goo.gl/forms/wq5nUjln7vgNiJPf1)                                                                                 |
