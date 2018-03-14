@@ -63,5 +63,5 @@ All assignments are due on the listed due date at the specified time. Details on
 | Term Project                  | [Sign up](https://goo.gl/qhfGYh) | [Start Assignment](https://classroom.github.com/a/0xDO8UM1)                                                                                 |
 | Project: Dole Effect          | In class                         | [View](https://goo.gl/YRExVL) / [Clone](https://goo.gl/NCcZ5T) / [Solutions](https://goo.gl/LgbzSB)                                         |
 | Weekly check-in               | End of week 8                    | [Fill out check-in](https://goo.gl/forms/wq5nUjln7vgNiJPf1)                                                                                 |
-| Project: N cycle OAE2         | In class                         | [View](https://goo.gl/kKJYN8) / [Clone](https://goo.gl/vyC1cN) /                                                                            |
+| Project: N cycle OAE2         | In class                         | [View](https://goo.gl/kKJYN8) / [Clone](https://goo.gl/vyC1cN) / Solutions                                                                  |
 | Weekly check-in               | End of week 9                    | [Fill out check-in](https://goo.gl/forms/JmUoJtCV8yFW0Se52)                                                                                 |
