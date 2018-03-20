@@ -53,11 +53,12 @@ All assignments are due on the listed due date at the specified time. Details on
 | Weekly check-in               | End of week 3                    | [Fill out check-in](https://goo.gl/forms/ZnNruk9K5vUvLa802)                                                           |
 | Isotope notation & properties | Feb 8 (end of class)             | [View](https://goo.gl/oA8xk4) / [Start](https://classroom.github.com/a/vXT7DF9e) / [Solutions](https://goo.gl/pe8z1e) |
 | Topic suggestions             | Feb 12 (before class)            | [Add project topic suggestions](https://goo.gl/qhfGYh)                                                                |
-| Partition functions (team)    | In class                         | [View](https://goo.gl/eiXDb3) / [Start](https://classroom.github.com/g/VnYn3Zv1)                                      |
+| Partition functions (team)    | In class                         | [View](https://goo.gl/eiXDb3) / [Start](https://classroom.github.com/g/VnYn3Zv1) / [Solutions](https://goo.gl/48fQ2s) |
 | Weekly check-in               | End of week 4                    | [Fill out check-in](https://goo.gl/forms/DpMJ29yBCRpExOLj2)                                                           |
+| Boron paleo pH                | In Class                         | View / Solutions                                                                                                      |
 | Equilibrium isotope effects   | Feb 25                           | [View](https://goo.gl/fpXf7p) / [Start](https://classroom.github.com/a/KbNzai1M)                                      |
 | Weekly check-in               | End of week 5                    | [Fill out check-in](https://goo.gl/forms/F2xC1QXJfUW4Jt9m2)                                                           |
-| Rayleigh Exercise             | In class                         | [View](https://goo.gl/NFPnRT) / [Start](https://classroom.github.com/a/rr0l0l-V) [Solutions](https://goo.gl/Fq9QZd)   |
+| Rayleigh Exercise             | In class                         | [View](https://goo.gl/NFPnRT) / [Start](https://classroom.github.com/a/rr0l0l-V) / [Solutions](https://goo.gl/Fq9QZd) |
 | Weekly check-in               | End of week 6                    | [Fill out check-in](https://goo.gl/forms/1vrfugBBX2MTGros1)                                                           |
 | Weekly check-in               | End of week 7                    | [Fill out check-in](https://goo.gl/forms/Y7OKE68nvIznQHhJ3)                                                           |
 | Term Project                  | [Sign up](https://goo.gl/qhfGYh) | [Start](https://classroom.github.com/a/0xDO8UM1)                                                                      |
