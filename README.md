@@ -69,3 +69,4 @@ All assignments are due on the listed due date at the specified time. Details on
 | Project Example: Sulfate Reduction | Optional                         | [View](https://goo.gl/rFz8GQ) / [Clone](https://goo.gl/xDP25c) / [Solutions](https://goo.gl/NKcCsr)                   |
 | Project Example: Paleoaltimetry    | Optional                         | [View](https://goo.gl/X5dsyR) / [Clone](https://goo.gl/zc9Z39) / [Solutions](https://goo.gl/ULM2A3)                   |
 | Weekly check-in                    | End of week 10                   | [Fill out check-in](https://goo.gl/forms/bnjEEFRjGoZLBSjv2)                                                           |
+| Beyond equilibrium                 | April 19                         | [View](https://goo.gl/DgV4db) / [Start](https://classroom.github.com/a/dBWXZBgH) / Solutions                          |
