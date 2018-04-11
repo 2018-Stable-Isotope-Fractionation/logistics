@@ -72,3 +72,5 @@ All assignments are due on the listed due date at the specified time. Details on
 | Beyond equilibrium                 | April 19                         | [View](https://goo.gl/DgV4db) / [Start](https://classroom.github.com/a/dBWXZBgH) / Solutions                          |
 | Project: C3 vs. C4 plants          | In class                         | [View](https://goo.gl/8B4HAP) / [Clone](https://goo.gl/W5nP7t) / [Solutions](https://goo.gl/SMmH9R)                   |
 | Weekly check-in                    | End of week 11                   | [Fill out check-in](https://goo.gl/forms/4WQdwD6Ro5Bv4aK33)                                                           |
+| Project: evaporation               | In class                         | [View](https://goo.gl/mLWuNm) / [Clone](https://goo.gl/b7pKkz) / Solutions                                            |
+| Weekly check-in                    | End of week 12                   | [Fill out check-in](https://goo.gl/forms/fyzsDp3w4WgAGHQg1)                                                           |
