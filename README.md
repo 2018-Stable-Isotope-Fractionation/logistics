@@ -74,5 +74,5 @@ All assignments are due on the listed due date at the specified time. Details on
 | Weekly check-in                    | End of week 11                   | [Fill out check-in](https://goo.gl/forms/4WQdwD6Ro5Bv4aK33)                                                           |
 | Project: evaporation               | In class                         | [View](https://goo.gl/mLWuNm) / [Clone](https://goo.gl/b7pKkz) / [Solutions](https://goo.gl/zyo8ce)                   |
 | Weekly check-in                    | End of week 12                   | [Fill out check-in](https://goo.gl/forms/fyzsDp3w4WgAGHQg1)                                                           |
-| Project: OMZ carbon cycling        | In class                         | [View](https://goo.gl/D4DWU4) / [Clone](https://goo.gl/dhef22) / Solutions                                            |
+| Project: OMZ carbon cycling        | In class                         | [View](https://goo.gl/D4DWU4) / [Clone](https://goo.gl/ctSqWs) / Solutions                                            |
 | Weekly check-in                    | End of week 13                   | [Fill out check-in](https://goo.gl/forms/cbqZ7TjjINPPQo343)                                                           |
