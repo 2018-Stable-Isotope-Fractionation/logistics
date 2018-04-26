@@ -76,3 +76,7 @@ All assignments are due on the listed due date at the specified time. Details on
 | Weekly check-in                    | End of week 12                   | [Fill out check-in](https://goo.gl/forms/fyzsDp3w4WgAGHQg1)                                                           |
 | Project: OMZ carbon cycling        | In class                         | [View](https://goo.gl/gi8NnY) / [Clone](https://goo.gl/ctSqWs) / [Solutions](https://goo.gl/fZysCp)                   |
 | Weekly check-in                    | End of week 13                   | [Fill out check-in](https://goo.gl/forms/cbqZ7TjjINPPQo343)                                                           |
+| Project: nitrate reduction         | In class                         | [View](https://goo.gl/dAqW91) / [Clone](https://goo.gl/Lsv4rc) / Solutions                                            |
+| Weekly check-in                    | End of week 14                   | [Fill out check-in](https://goo.gl/forms/7qcwQdAkkuoyRxWz1)                                                           |
+| Project: paleoecology              | In class                         | View / [Clone](https://goo.gl/JomRdL) / Solutions                                                                     |
+| Weekly check-in                    | End of week 15                   | [Fill out check-in](https://goo.gl/forms/OLwGFKasPxRGwWtr2)                                                           |
