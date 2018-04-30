@@ -3,8 +3,6 @@ layout: default
 permalink: /
 ---
 
-![](class_flyer_small.png)
-
 # Logistics
 
 This is the logistics page for the Spring 2018 **Stable Isotope Fractionation** class at the University of Colorado Boulder. Details on reading, homework and project assignments will be filled in throughout the semester. For details on the syllabus see [2018-Stable-Isotope-Fractionation.github.io/syllabus](https://2018-Stable-Isotope-Fractionation.github.io/syllabus).
