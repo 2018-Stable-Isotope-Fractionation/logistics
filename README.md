@@ -3,6 +3,8 @@ layout: default
 permalink: /
 ---
 
+![](class_flyer_small.png)
+
 # Logistics
 
 This is the logistics page for the Spring 2018 **Stable Isotope Fractionation** class at the University of Colorado Boulder. Details on reading, homework and project assignments will be filled in throughout the semester. For details on the syllabus see [2018-Stable-Isotope-Fractionation.github.io/syllabus](https://2018-Stable-Isotope-Fractionation.github.io/syllabus).
@@ -51,12 +53,12 @@ All assignments are due on the listed due date at the specified time. Details on
 | Intro R (part 3)                   | 30 Jan (before class)            | [Start](https://classroom.github.com/a/Xpt8I_bV)                                                                      |
 | Intro R (part 4)                   | 1 Feb (before class)             | [Start](https://classroom.github.com/a/ilcAWDFw)                                                                      |
 | Weekly check-in                    | End of week 3                    | [Fill out check-in](https://goo.gl/forms/ZnNruk9K5vUvLa802)                                                           |
-| Isotope notation & properties      | Feb 8 (end of class)             | [View](https://goo.gl/oA8xk4) / [Start](https://classroom.github.com/a/vXT7DF9e) / [Solutions](https://goo.gl/pe8z1e) |
+| Homework 1: Isotope notation & properties      | Feb 8 (end of class)             | [View](https://goo.gl/oA8xk4) / [Start](https://classroom.github.com/a/vXT7DF9e) / [Solutions](https://goo.gl/pe8z1e) |
 | Topic suggestions                  | Feb 12 (before class)            | [Add project topic suggestions](https://goo.gl/qhfGYh)                                                                |
 | Partition functions (team)         | In class                         | [View](https://goo.gl/eiXDb3) / [Start](https://classroom.github.com/g/VnYn3Zv1) / [Solutions](https://goo.gl/48fQ2s) |
 | Weekly check-in                    | End of week 4                    | [Fill out check-in](https://goo.gl/forms/DpMJ29yBCRpExOLj2)                                                           |
 | Boron paleo pH                     | In class                         | View / Solutions                                                                                                      |
-| Equilibrium isotope effects        | Feb 25                           | [View](https://goo.gl/fpXf7p) / [Start](https://classroom.github.com/a/KbNzai1M)                                      |
+| Homework 2: Equilibrium isotope effects        | Feb 25                           | [View](https://goo.gl/fpXf7p) / [Start](https://classroom.github.com/a/KbNzai1M)                                      |
 | Weekly check-in                    | End of week 5                    | [Fill out check-in](https://goo.gl/forms/F2xC1QXJfUW4Jt9m2)                                                           |
 | Rayleigh Exercise                  | In class                         | [View](https://goo.gl/NFPnRT) / [Start](https://classroom.github.com/a/rr0l0l-V) / [Solutions](https://goo.gl/Fq9QZd) |
 | Weekly check-in                    | End of week 6                    | [Fill out check-in](https://goo.gl/forms/1vrfugBBX2MTGros1)                                                           |
@@ -69,7 +71,7 @@ All assignments are due on the listed due date at the specified time. Details on
 | Project Example: Sulfate Reduction | Optional                         | [View](https://goo.gl/rFz8GQ) / [Clone](https://goo.gl/xDP25c) / [Solutions](https://goo.gl/NKcCsr)                   |
 | Project Example: Paleoaltimetry    | Optional                         | [View](https://goo.gl/X5dsyR) / [Clone](https://goo.gl/zc9Z39) / [Solutions](https://goo.gl/ULM2A3)                   |
 | Weekly check-in                    | End of week 10                   | [Fill out check-in](https://goo.gl/forms/bnjEEFRjGoZLBSjv2)                                                           |
-| Beyond equilibrium                 | April 19                         | [View](https://goo.gl/DgV4db) / [Start](https://classroom.github.com/a/dBWXZBgH) / Solutions                          |
+| Homework 3: Beyond equilibrium                 | April 19                         | [View](https://goo.gl/DgV4db) / [Start](https://classroom.github.com/a/dBWXZBgH) / Solutions                          |
 | Project: C3 vs. C4 plants          | In class                         | [View](https://goo.gl/8B4HAP) / [Clone](https://goo.gl/W5nP7t) / [Solutions](https://goo.gl/SMmH9R)                   |
 | Weekly check-in                    | End of week 11                   | [Fill out check-in](https://goo.gl/forms/4WQdwD6Ro5Bv4aK33)                                                           |
 | Project: evaporation               | In class                         | [View](https://goo.gl/mLWuNm) / [Clone](https://goo.gl/b7pKkz) / [Solutions](https://goo.gl/zyo8ce)                   |
